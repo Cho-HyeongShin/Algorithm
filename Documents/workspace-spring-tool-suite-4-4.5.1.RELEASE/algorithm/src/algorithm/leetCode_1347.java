@@ -3,7 +3,7 @@ import java.util.*;
 
 public class leetCode_1347 {
 	public static void main(String[] args) {
-		
+		//test commit
 		class Solution {
 		    public int minSteps(String s, String t) {
 		    int[] temp = new int[26];
