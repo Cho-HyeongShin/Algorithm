@@ -1,6 +1,6 @@
 package algorithm;
-
 import java.util.*;
+
 public class leetCode_1817 {
 	public static void main(String[] args) {
 		class Solution {
